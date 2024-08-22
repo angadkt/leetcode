@@ -8,4 +8,4 @@ var isPalindrome = function(x) {
         res = false;
     }
     return res;
-};
+};  
