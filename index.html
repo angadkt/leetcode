@@ -22,7 +22,24 @@
         // let result = substr.concat(remainStr);
         // console.log(result);
 
-
+        let  s = "a good   example";
+        let arr = s.split(" ");
+        console.log(arr);
+        let newArr = [];
+        let reversedArr = arr.reverse();
+        console.log(reversedArr);
+        reversedArr.forEach(element => {
+            if(element!= ''){
+                newArr.push(element);
+            }
+        });
+        console.log(newArr.join(" "));
+        
+        // let trimmedArr = reversedArr.map((item)=> item.trim());
+        // console.log(trimmedArr);
+        
+        
+        
 
 
     </script>
