@@ -87,18 +87,22 @@
 //     return s.substring(start, end + 1);
 // };/
 
-let word = "abcdefd";
-let wordArr = word.split("");
-let duplicateArr = [...wordArr];
+// let word = "abcdefd";
+// let wordArr = word.split("");
+// let duplicateArr = [...wordArr];
 
-console.log(duplicateArr);
-console.log(wordArr);
-let ch = "d";
+// console.log(duplicateArr);
+// console.log(wordArr);
+// let ch = "d";
 
-let index = wordArr.indexOf(ch);
-console.log(index);
-let substr = wordArr.splice(0,index+1).reverse().join("");
-let remainStr = duplicateArr.slice(index);
-console.log(substr);
-console.log(remainArr);
+// let index = wordArr.indexOf(ch);
+// console.log(index);
+// let substr = wordArr.splice(0,index+1).reverse().join("");
+// let remainStr = duplicateArr.slice(index);
+// console.log(substr);
+// console.log(remainArr);
 
+let c = "";
+let a = "3";
+let b = "30";
+console.log(c+a+b);
