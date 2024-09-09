@@ -70,35 +70,64 @@
 
         // console.log(product);
 
-    //     let res = [];
-    //     for (let i=0; i<nums.length-2; i++) {
-    //         if(nums[i]*nums[i+1] > nums[i+1]*nums[i+2]) {
-    //             // console.log(nums[i]*nums[i+1]);
-    //             res.push(nums[i]*nums[i+1]);
-                
-    //         } else {
-    //             res.push(nums[i+1]*nums[i+2]);
+        //     let res = [];
+        //     for (let i=0; i<nums.length-2; i++) {
+        //         if(nums[i]*nums[i+1] > nums[i+1]*nums[i+2]) {
+        //             // console.log(nums[i]*nums[i+1]);
+        //             res.push(nums[i]*nums[i+1]);
 
-    //     }
-    //     console.log(Math.max(...res));
-        
-    // }
+        //         } else {
+        //             res.push(nums[i+1]*nums[i+2]);
 
-        let nums = [2, 3, -2, 4];
+        //     }
+        //     console.log(Math.max(...res));
 
-        let res = 0;
-        for (let i = 0; i < nums.length; i++) {
-            let product = 1;
-            for (let j = i; j < nums.length; j++) {
-                product *= nums[j];
-                res = Math.max(res, product);
+        // }
+
+        // let nums = [2, 3, -2, 4];
+
+        // let res = 0;
+        // for (let i = 0; i < nums.length; i++) {
+        //     let product = 1;
+        //     for (let j = i; j < nums.length; j++) {
+        //         product *= nums[j];
+        //         res = Math.max(res, product);
+        //     }
+
+        // }
+        // console.log(res);
+
+
+        // var isPalindrome = function (s) {
+        let s = "A man, a plan, a canal: Panama";
+        let res = true;
+            let newArr = [];
+            let newStr = '';
+            let revStr = '';
+            if (s.trim() == "") {
+                res = true;
+            } else {
+                let lowerStr =  s.toLowerCase().split("");
+                for (i = 0; i < lowerStr.length; i++) {
+                    if ((lowerStr[i] >= 'a' && lowerStr[i] <= 'z') ||  (lowerStr[i] >= '0' && lowerStr[i] <= '9')) {
+                        newArr.push(lowerStr[i]);
+                    }
+                }
+                newStr = newArr.join("");
+                revStr = [...newArr].reverse().join("");
+                // return newStr == revStr? true : false;
+                res = newStr == revStr;
             }
+            // console.log(newStr);
+            // console.log(revStr);
+            console.log(res);
             
-        }
-        console.log(res);
+            
+            
+            
+             
 
-
-
+        // };
 
     </script>
 </body>
