@@ -98,29 +98,29 @@
         // console.log(res);
 
 
-        // var isPalindrome = function (s) {
-        let s = "A man, a plan, a canal: Panama";
-        let res = true;
-            let newArr = [];
-            let newStr = '';
-            let revStr = '';
-            if (s.trim() == "") {
-                res = true;
-            } else {
-                let lowerStr =  s.toLowerCase().split("");
-                for (i = 0; i < lowerStr.length; i++) {
-                    if ((lowerStr[i] >= 'a' && lowerStr[i] <= 'z') ||  (lowerStr[i] >= '0' && lowerStr[i] <= '9')) {
-                        newArr.push(lowerStr[i]);
-                    }
-                }
-                newStr = newArr.join("");
-                revStr = [...newArr].reverse().join("");
-                // return newStr == revStr? true : false;
-                res = newStr == revStr;
-            }
-            // console.log(newStr);
-            // console.log(revStr);
-            console.log(res);
+        // // var isPalindrome = function (s) {
+        // let s = "A man, a plan, a canal: Panama";
+        // let res = true;
+        //     let newArr = [];
+        //     let newStr = '';
+        //     let revStr = '';
+        //     if (s.trim() == "") {
+        //         res = true;
+        //     } else {
+            //     let lowerStr =  s.toLowerCase().split("");
+            //     for (i = 0; i < lowerStr.length; i++) {
+            //         if ((lowerStr[i] >= 'a' && lowerStr[i] <= 'z') ||  (lowerStr[i] >= '0' && lowerStr[i] <= '9')) {
+            //             newArr.push(lowerStr[i]);
+            //         }
+            //     }
+            //     newStr = newArr.join("");
+            //     revStr = [...newArr].reverse().join("");
+            //     // return newStr == revStr? true : false;
+            //     res = newStr == revStr;
+            // }
+            // // console.log(newStr);
+            // // console.log(revStr);
+            // console.log(res);
             
             
             
@@ -128,6 +128,31 @@
              
 
         // };
+
+    var checkPerfectNumber = function(num) {
+    // let num = 7;
+    console.log(num);
+    
+    let sum = 0;
+    if(num === 0){
+        return false;
+    }
+    let halfNum = num/2;
+    console.log( halfNum);
+    
+    for(i=1; i<= halfNum; i++){
+        if(num % i == 0){
+            sum += i;
+        }
+    }
+    if(sum === num){
+        return true
+    }else{
+        return false
+    }
+};
+console.log(checkPerfectNumber(7));
+
 
     </script>
 </body>
