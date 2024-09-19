@@ -107,51 +107,84 @@
         //     if (s.trim() == "") {
         //         res = true;
         //     } else {
-            //     let lowerStr =  s.toLowerCase().split("");
-            //     for (i = 0; i < lowerStr.length; i++) {
-            //         if ((lowerStr[i] >= 'a' && lowerStr[i] <= 'z') ||  (lowerStr[i] >= '0' && lowerStr[i] <= '9')) {
-            //             newArr.push(lowerStr[i]);
-            //         }
-            //     }
-            //     newStr = newArr.join("");
-            //     revStr = [...newArr].reverse().join("");
-            //     // return newStr == revStr? true : false;
-            //     res = newStr == revStr;
-            // }
-            // // console.log(newStr);
-            // // console.log(revStr);
-            // console.log(res);
-            
-            
-            
-            
-             
+        //     let lowerStr =  s.toLowerCase().split("");
+        //     for (i = 0; i < lowerStr.length; i++) {
+        //         if ((lowerStr[i] >= 'a' && lowerStr[i] <= 'z') ||  (lowerStr[i] >= '0' && lowerStr[i] <= '9')) {
+        //             newArr.push(lowerStr[i]);
+        //         }
+        //     }
+        //     newStr = newArr.join("");
+        //     revStr = [...newArr].reverse().join("");
+        //     // return newStr == revStr? true : false;
+        //     res = newStr == revStr;
+        // }
+        // // console.log(newStr);
+        // // console.log(revStr);
+        // console.log(res);
+
+
+
+
+
 
         // };
 
-    var checkPerfectNumber = function(num) {
-    // let num = 7;
-    console.log(num);
-    
-    let sum = 0;
-    if(num === 0){
-        return false;
-    }
-    let halfNum = num/2;
-    console.log( halfNum);
-    
-    for(i=1; i<= halfNum; i++){
-        if(num % i == 0){
-            sum += i;
+        //     var checkPerfectNumber = function(num) {
+        //     // let num = 7;
+        //     console.log(num);
+
+        //     let sum = 0;
+        //     if(num === 0){
+        //         return false;
+        //     }
+        //     let halfNum = num/2;
+        //     console.log( halfNum);
+
+        //     for(i=1; i<= halfNum; i++){
+        //         if(num % i == 0){
+        //             sum += i;
+        //         }
+        //     }
+        //     if(sum === num){
+        //         return true
+        //     }else{
+        //         return false
+        //     }
+        // };
+        // console.log(checkPerfectNumber(7));
+
+        // var firstMissingPositive = function (nums) {
+        //     let ans = 0;
+        //     let res = nums.sort((a, b) => a - b)
+        //     console.log(res);
+            
+        //     for (i = 0; i < res.length; i++) {
+        //         if (res[i] - res[i + 1] >= 2) {
+        //             ans = res[i] + 1;
+        //         }else{
+        //          ans = res[i+1] + 1;
+        //         }
+        //     }
+        //     return ans
+        // };
+
+        // console.log(firstMissingPositive([1,2,0]));
+        
+
+        let nums = [1,2,0]
+        let res = new Set(nums);
+        let resArr = [...nums];
+        console.log(resArr);
+
+        let i = 1;
+        while(resArr.includes(i)){
+            i++;
         }
-    }
-    if(sum === num){
-        return true
-    }else{
-        return false
-    }
-};
-console.log(checkPerfectNumber(7));
+
+        console.log(i);
+        
+
+
 
 
     </script>
