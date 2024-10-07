@@ -102,7 +102,19 @@
 // console.log(substr);
 // console.log(remainArr);
 
-let c = "";
-let a = "3";
-let b = "30";
-console.log(c+a+b);
+// let c = "";
+// let a = "3";
+// let b = "30";
+// console.log(c+a+b);
+
+let str = "abc"
+let res = []
+for(let i=0; i<=str.length; i++){
+    for(let j=i+1; j<=str.length; j++){
+        res.push(str.slice(i,j));
+    }
+}
+console.log(res);
+
+
+
