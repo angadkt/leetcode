@@ -19,12 +19,10 @@
 //                     break;
 //                 }
 //             }
-            
+
 //         }
 //         return res;
 //     };
-    
-
 
 // console.log(longestPalindrome("babad"));
 
@@ -55,8 +53,7 @@
 // console.log(longestPalindrome("babad"));
 // console.log(longestPalindrome("ccc"));
 
-
-// //code sample 
+// //code sample
 // /**
 //  * @param {string} s
 //  * @return {string}
@@ -68,7 +65,7 @@
 //         while(left >= 0 && right < s.length && s[left] === s[right]){
 //             left--;
 //             right++;
-//         } 
+//         }
 //         return right - left - 1;
 //     }
 
@@ -107,14 +104,79 @@
 // let b = "30";
 // console.log(c+a+b);
 
-let str = "abc"
-let res = []
-for(let i=0; i<=str.length; i++){
-    for(let j=i+1; j<=str.length; j++){
-        res.push(str.slice(i,j));
+// let str = "abc"
+// let res = []
+// for(let i=0; i<=str.length; i++){
+//     for(let j=i+1; j<=str.length; j++){
+//         res.push(str.slice(i,j));
+//     }
+// }
+// console.log(res);
+
+// const uniqueSum = (arr) =>{
+//     let uniqArr = [ ...new Set(arr)]
+//     let sum = uniqArr.reduce((acc, cur)=> (
+//         acc + cur
+//     ),0)
+//     return sum
+// }
+
+// console.log(uniqueSum([5, 5, 6, 6, 7, 7]));
+
+// const anagram = (s , t) => {
+//     // if(s.includes(t)){
+//     //     return true
+//     // }else{
+//     //     return false
+//     // }
+//     let sArr = s.split("")
+// }
+// console.log(anagram("anagram", "nagrama"))
+
+// 
+
+
+
+// function anagram(s,t){
+//     if(s.length !== t.length) return false
+
+//     return s.split("").sort().join("") === t.split("").sort().join("")
+// }
+
+// console.log(anagram("anagram", "nagaram"));
+// console.log(anagram("cat", "rat"));
+
+
+// function operation(str){
+//  let value = 0;
+//  for(let i=0; i<str.length; i++){
+//     if(str[i]=== "i"){
+//         value += 1
+//     }else if(str[i] === "d"){
+//         value -= 1 
+//     }else if(str[i] === "s"){
+//         value = (value*value)
+//     }
+//  }
+//  return value
+// }
+
+// console.log(operation("iiss"));
+
+
+function singleNumber(arr){
+    let newArr = [...  new Set(arr)]
+    for(let i=0; i<newArr.length; i++){
+        let count = 0;
+        for (let j=0; j<arr.length; j++){
+            if(newArr[i] == arr[j]){
+                count++;
+            }
+        }
+        if(count === 1){
+            return newArr[i]
+        }
     }
 }
-console.log(res);
 
-
-
+console.log(singleNumber([2, 2, 1]));
