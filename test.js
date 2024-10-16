@@ -164,19 +164,30 @@
 // console.log(operation("iiss"));
 
 
-function singleNumber(arr){
-    let newArr = [...  new Set(arr)]
-    for(let i=0; i<newArr.length; i++){
-        let count = 0;
-        for (let j=0; j<arr.length; j++){
-            if(newArr[i] == arr[j]){
-                count++;
-            }
-        }
-        if(count === 1){
-            return newArr[i]
-        }
-    }
-}
+// function singleNumber(arr){
+//     let newArr = [...  new Set(arr)]
+//     for(let i=0; i<newArr.length; i++){
+//         let count = 0;
+//         for (let j=0; j<arr.length; j++){
+//             if(newArr[i] == arr[j]){
+//                 count++;
+//             }
+//         }
+//         if(count === 1){
+//             return newArr[i]
+//         }
+//     }
+// }
 
-console.log(singleNumber([2, 2, 1]));
+// console.log(singleNumber([2, 2, 1]));
+
+// let nums = [3,0,1]
+// let res;
+// for(let i=0; i<=nums.length; i++){
+//     if(!nums.includes(i)){
+//         res =  i;
+//     }
+// }
+
+
+// console.log(res);
