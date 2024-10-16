@@ -63,4 +63,9 @@
 // console.log(divide(15,3));
 
 
-
+let nums = [3,1,3,4,2]
+let res ;
+    for (let i=0; i<nums.length; i++){
+        res ^= nums[i]
+    }
+    console.log(res);
