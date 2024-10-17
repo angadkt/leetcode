@@ -191,3 +191,46 @@
 
 
 // console.log(res);
+
+
+
+let nums = [0,1,0,1,0,1,99]
+
+
+// let newSet = new Set()
+//     let res = []
+//     for(let i=0; i<nums.length; i++){
+//         if(newSet.has(nums[i])){
+//             res.push(nums[i])
+//         }else{
+//             newSet.add(nums[i])
+//         }
+
+//         for(j=0; j<newSet.size; j++){
+//             if(!newSet.has(res[j])){
+//                 console.log(newSet[j])
+//             }
+//         }
+//     }
+
+    // console.log(res);
+    // console.log();
+    
+    // console.log(newSet);
+
+    // let count
+    // for(let i=0; i<nums.length; i++ ){
+    //     count = 0;
+    //     if(nums[i]!= -1){
+    //         for(let j=1; j<nums.length-1; j++){
+    //             if(nums[i] === nums[j]){
+    //                 count++
+    //                 nums[j] = -1
+    //             }
+    //         }
+    //         if(count === 0){
+    //             console.log(nums[i]);
+                 
+    //         }
+    //     }
+    // }
