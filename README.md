@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/angadkt/leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/angadkt/leetcode/tree/master/2491-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/angadkt/leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
