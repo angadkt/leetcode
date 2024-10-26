@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2298-count-integers-with-even-digit-sum](https://github.com/angadkt/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/angadkt/leetcode/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
