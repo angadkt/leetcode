@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/angadkt/leetcode/tree/master/0001-two-sum) |
+| [1651-shuffle-string](https://github.com/angadkt/leetcode/tree/master/1651-shuffle-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/angadkt/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/angadkt/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/angadkt/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/angadkt/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/angadkt/leetcode/tree/master/0742-to-lower-case) |
+| [1651-shuffle-string](https://github.com/angadkt/leetcode/tree/master/1651-shuffle-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/angadkt/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
