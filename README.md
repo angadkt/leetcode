@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/angadkt/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/angadkt/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/angadkt/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/angadkt/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/angadkt/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/angadkt/leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/angadkt/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/angadkt/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
