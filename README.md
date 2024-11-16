@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/angadkt/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/angadkt/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/angadkt/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/angadkt/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/angadkt/leetcode/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/angadkt/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/angadkt/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/angadkt/leetcode/tree/master/1013-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/angadkt/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
