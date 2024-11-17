@@ -7,7 +7,7 @@ var finalValueAfterOperations = function(operations) {
    for(let item of operations){
         if(item == "X++" || item == "++X") {
             x++
-        }else if(item == "--X" || item == "X--"){
+        }else{
             x--
         }
    }
