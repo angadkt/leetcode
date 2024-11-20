@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/angadkt/leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/angadkt/leetcode/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/angadkt/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/angadkt/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/angadkt/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/angadkt/leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/angadkt/leetcode/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/angadkt/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/angadkt/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/angadkt/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
