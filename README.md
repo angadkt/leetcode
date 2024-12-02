@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/angadkt/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/angadkt/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/angadkt/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2634-minimum-common-value](https://github.com/angadkt/leetcode/tree/master/2634-minimum-common-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/angadkt/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/angadkt/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/angadkt/leetcode/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/angadkt/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/angadkt/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2634-minimum-common-value](https://github.com/angadkt/leetcode/tree/master/2634-minimum-common-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/angadkt/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/angadkt/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
@@ -81,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/angadkt/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/angadkt/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/angadkt/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2634-minimum-common-value](https://github.com/angadkt/leetcode/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/angadkt/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2634-minimum-common-value](https://github.com/angadkt/leetcode/tree/master/2634-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
