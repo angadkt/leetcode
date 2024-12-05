@@ -6,7 +6,6 @@ var firstMissingPositive = function(nums) {
     let res = nums.sort((a,b)=>a-b)
     res = [ ...new Set(res)]
     res = res.filter((item) => item > 0)
-    // console.log(res)
     let min = Math.min(...res)
     console.log(min)
     if(min != 1){
