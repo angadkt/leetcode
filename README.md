@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/angadkt/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/angadkt/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/angadkt/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/angadkt/leetcode/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/angadkt/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/angadkt/leetcode/tree/master/0792-binary-search) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/angadkt/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/angadkt/leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/angadkt/leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/angadkt/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2634-minimum-common-value](https://github.com/angadkt/leetcode/tree/master/2634-minimum-common-value) |
