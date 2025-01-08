@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/angadkt/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/angadkt/leetcode/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/angadkt/leetcode/tree/master/2756-buy-two-chocolates) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/angadkt/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3227-find-missing-and-repeated-values](https://github.com/angadkt/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/angadkt/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3311-ant-on-the-boundary](https://github.com/angadkt/leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/angadkt/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/angadkt/leetcode/tree/master/2235-capitalize-the-title) |
 | [2427-first-letter-to-appear-twice](https://github.com/angadkt/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/angadkt/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Two Pointers
 |  |
 | ------- |
