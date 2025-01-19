@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/angadkt/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/angadkt/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/angadkt/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/angadkt/leetcode/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/angadkt/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/angadkt/leetcode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/angadkt/leetcode/tree/master/0162-find-peak-element) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/angadkt/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/angadkt/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/angadkt/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/angadkt/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/angadkt/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/angadkt/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/angadkt/leetcode/tree/master/0389-find-the-difference) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/angadkt/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/angadkt/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/angadkt/leetcode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/angadkt/leetcode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/angadkt/leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/angadkt/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/angadkt/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/angadkt/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/angadkt/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/angadkt/leetcode/tree/master/0268-missing-number) |
