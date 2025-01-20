@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/angadkt/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/angadkt/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/angadkt/leetcode/tree/master/2235-capitalize-the-title) |
+| [2365-percentage-of-letter-in-string](https://github.com/angadkt/leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/angadkt/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/angadkt/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Two Pointers
