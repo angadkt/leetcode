@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/angadkt/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/angadkt/leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/angadkt/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/angadkt/leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/angadkt/leetcode/tree/master/0263-ugly-number) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/angadkt/leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/angadkt/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/angadkt/leetcode/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/angadkt/leetcode/tree/master/2427-first-letter-to-appear-twice) |
