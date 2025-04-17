@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/angadkt/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/angadkt/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/angadkt/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/angadkt/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/angadkt/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/angadkt/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/angadkt/leetcode/tree/master/0389-find-the-difference) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/angadkt/leetcode/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/angadkt/leetcode/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
