@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/angadkt/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/angadkt/leetcode/tree/master/1944-truncate-sentence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/angadkt/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/angadkt/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/angadkt/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/angadkt/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/angadkt/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/angadkt/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/angadkt/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/angadkt/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/angadkt/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/angadkt/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2634-minimum-common-value](https://github.com/angadkt/leetcode/tree/master/2634-minimum-common-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/angadkt/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/angadkt/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/angadkt/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/angadkt/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/angadkt/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/angadkt/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sorting
