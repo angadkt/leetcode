@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/angadkt/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/angadkt/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/angadkt/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/angadkt/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/angadkt/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/angadkt/leetcode/tree/master/0456-132-pattern) |
 | [0643-maximum-average-subarray-i](https://github.com/angadkt/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/angadkt/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/angadkt/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/angadkt/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/angadkt/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/angadkt/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/angadkt/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/angadkt/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/angadkt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/angadkt/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/angadkt/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/angadkt/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/angadkt/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/angadkt/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/angadkt/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/angadkt/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/angadkt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/angadkt/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/angadkt/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/angadkt/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/angadkt/leetcode/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/angadkt/leetcode/tree/master/0792-binary-search) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/angadkt/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/angadkt/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/angadkt/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/angadkt/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/angadkt/leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/angadkt/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/angadkt/leetcode/tree/master/1019-squares-of-a-sorted-array) |
