@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/angadkt/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/angadkt/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/angadkt/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2886-faulty-keyboard](https://github.com/angadkt/leetcode/tree/master/2886-faulty-keyboard) |
 | [3311-ant-on-the-boundary](https://github.com/angadkt/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## String
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/angadkt/leetcode/tree/master/2235-capitalize-the-title) |
 | [2365-percentage-of-letter-in-string](https://github.com/angadkt/leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/angadkt/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2886-faulty-keyboard](https://github.com/angadkt/leetcode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/angadkt/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Two Pointers
 |  |
