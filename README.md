@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/angadkt/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2886-faulty-keyboard](https://github.com/angadkt/leetcode/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/angadkt/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3617-find-the-original-typed-string-i](https://github.com/angadkt/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Two Pointers
 |  |
 | ------- |
