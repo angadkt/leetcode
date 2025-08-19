@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/angadkt/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/angadkt/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/angadkt/leetcode/tree/master/2634-minimum-common-value) |
+| [2698-find-the-array-concatenation-value](https://github.com/angadkt/leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2756-buy-two-chocolates](https://github.com/angadkt/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/angadkt/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/angadkt/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/angadkt/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/angadkt/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/angadkt/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2698-find-the-array-concatenation-value](https://github.com/angadkt/leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2886-faulty-keyboard](https://github.com/angadkt/leetcode/tree/master/2886-faulty-keyboard) |
 | [3311-ant-on-the-boundary](https://github.com/angadkt/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## String
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/angadkt/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/angadkt/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/angadkt/leetcode/tree/master/2634-minimum-common-value) |
+| [2698-find-the-array-concatenation-value](https://github.com/angadkt/leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/angadkt/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
