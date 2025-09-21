@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/angadkt/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/angadkt/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/angadkt/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1580-shuffle-the-array](https://github.com/angadkt/leetcode/tree/master/1580-shuffle-the-array) |
 | [1651-shuffle-string](https://github.com/angadkt/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/angadkt/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/angadkt/leetcode/tree/master/1899-count-items-matching-a-rule) |
