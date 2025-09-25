@@ -3,9 +3,11 @@
  * @return {number}
  */
 var missingNumber = function(nums) {
-    for(let i=0; i<=nums.length; i++){
-        if(!nums.includes(i)){
-            return  i;
-        }
+    let orgSum = 0
+    let numsSum = 0
+    for(let i=0; i<nums.length; i++){
+        numsSum += nums[i]
+        orgSum += i + 1
     }
+    return orgSum - numsSum
 };
